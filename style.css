@@ -3,46 +3,46 @@
 }
 
 body {
-    background-image: url("crochet_background.jfif");
+    background-image: url("https://i.pinimg.com/474x/29/59/44/295944eb8a359d9c1256a83e17bff514.jpg");
     background-size: cover
 }
 
 h1 {
-    color:rgb(214, 185, 255);
-    font-family: "Lucida Console", Monospace;
-    font-size: 57px;
+    color:rgb(16, 2, 88);
+    font-family: Bookman, serif;
+    font-size: 60px;
     text-align: center;
 }
 h2 {
-    color:rgb(34, 6, 45);
-    font-family: "Lucida Console", Monospace;
-    font-size: 35px;
+    color:rgb(12, 0, 74);
+    font-family: Bookman, serif;
+    font-size: 45px;
     text-align: center;
 }
 
 h3 {
-    color:rgb(214, 185, 255);
-    font-family: "Lucida Console", Monospace;
-    font-size: 25px;
+    color:rgb(12, 0, 74);
+    font-family: Bookman, serif;
+    font-size: 35px;
     text-align: center;
 }
 
 h4 {
-    color:rgb(34, 6, 45);
-    font-family: "Lucida Console", Monospace;
-    font-size: 25px;
+    color:rgb(12, 0, 74);
+    font-family: Bookman, serif;
+    font-size: 30px;
     text-align: center;
 }
 p {
-    color:rgb(34, 6, 45);
-    font-family: "Lucida Console", Monospace;
+    color:rgb(12, 0, 74);
+    font-family: Bookman, serif;
     font-size: 25px
 }
 
 .box-1 {
     align-items: center;
-    background-color:#9660f9;
-    border-color: #350393;
+    background-color:#dae1ff;
+    border-color: #c2ccff;
     width: 950px;
     padding: 25px;
     border-radius: 10px;
@@ -52,8 +52,8 @@ p {
     
 }
 .box-2 {
-    background-color:#9660f9;
-    border-color: #350393;
+    background-color:#dae1ff;
+    border-color: #c2ccff;
     width: 950px;
     padding: 25px;
     border-radius: 10px;
